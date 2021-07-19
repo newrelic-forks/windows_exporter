@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/prometheus-community/windows_exporter/log"
+	"github.com/newrelic-forks/windows_exporter/log"
 	"github.com/prometheus/client_golang/prometheus"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
