@@ -17,9 +17,9 @@ import (
 	"golang.org/x/sys/windows/svc"
 
 	"github.com/StackExchange/wmi"
-	"github.com/prometheus-community/windows_exporter/collector"
-	"github.com/prometheus-community/windows_exporter/config"
-	"github.com/prometheus-community/windows_exporter/log"
+	"github.com/newrelic-forks/windows_exporter/collector"
+	"github.com/newrelic-forks/windows_exporter/config"
+	"github.com/newrelic-forks/windows_exporter/log"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/prometheus/common/version"

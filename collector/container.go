@@ -4,7 +4,7 @@ package collector
 
 import (
 	"github.com/Microsoft/hcsshim"
-	"github.com/prometheus-community/windows_exporter/log"
+	"github.com/newrelic-forks/windows_exporter/log"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
